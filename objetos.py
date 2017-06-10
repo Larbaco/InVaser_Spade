@@ -1,3 +1,14 @@
+
+"""
+ * 10 de Junho de 2017
+ *
+ * InVaser_Spade
+ *
+ * Criado por Thiago O. Cabral
+ *
+ *
+ """
+  
 import sys
 import OpenGL
 from OpenGL.GL import *
