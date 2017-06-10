@@ -1,4 +1,16 @@
 #!/usr/bin/python
+
+"""
+ * 10 de Junho de 2017
+ *
+ * InVaser_Spade
+ *
+ * Criado por Thiago O. Cabral
+ *
+ *
+ """
+ 
+ 
 from objetos import *
 from random import randint
 
